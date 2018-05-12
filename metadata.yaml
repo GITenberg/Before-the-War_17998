@@ -1,0 +1,33 @@
+_repo: Before-the-War_17998
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount
+    alias: Haldane, Richard Burdon Haldane
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '7742'
+    url: http://www.gutenberg.org/2009/agents/7742
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Burdon_Haldane%2C_1st_Viscount_Haldane
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17998'
+  lccn: '20003879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Foreign relations -- Germany'
+- !lcsh 'Great Britain. Army'
+- !lcc 'DA'
+- !lcsh 'Germany -- Foreign relations -- Great Britain'
+- !lcsh 'World War, 1914-1918'
+title: Before the War
+url: http://www.gutenberg.org/ebooks/17998
