@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7742
     wikipedia: http://en.wikipedia.org/wiki/Richard_Burdon_Haldane%2C_1st_Viscount_Haldane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17998#Before-the-War
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-03-16'
 gutenberg_type: Text
